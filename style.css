@@ -8,6 +8,7 @@
 body{
     
     margin-top: 3%;
+    
 }
 
 .siderbar{
@@ -78,6 +79,7 @@ h3{
 .img-div img{
 width: 80%;
 border-radius: 35px;
+margin-left: 5%;
 }
 
 .head-text{
@@ -147,7 +149,8 @@ border-radius: 35px;
     width: 50%;
 }
 .last-img-div img{
-    border-radius: 30px;
+    border-radius: 35px;
+    width: 90%;
 }
 
 .forth-secition{
