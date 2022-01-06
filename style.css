@@ -43,16 +43,21 @@ padding-bottom: 20px;
 padding-right: 40px;
 text-align: justify;
 }
+
 .button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     color: white;
     font-weight: 700;
     padding: 10px 18px;
-    border-radius: 7px;
-    
-    
+    border-radius: 7px;  
 }
+
+.img-div{
+    width: 50%;
+}
+
+
 
 span{
     color:red;
@@ -64,9 +69,7 @@ h3{
     padding-right: 40px;
     text-align: justify;
 }
-.img-div{
-    width: 50%;
-}
+
 h3{
     padding-top: 20px;
     font-family: 'Lato', sans-serif;
